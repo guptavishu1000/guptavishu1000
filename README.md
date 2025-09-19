@@ -5,7 +5,7 @@
 - 💻 Associate Software Engineer @ WiseTech Global (ex-Microsoft Intern)  
 - 🎓 B.Tech in Civil Engineering, IIT (BHU) Varanasi | CPI – 8.4  
 - 🔭 Interests: Data Structures & Algorithms, System Design, Artificial Intelligence  
-- 🌱 Currently exploring Full-Stack Development, .NET, and Scalable Systems  
+- 🌱 Currently exploring Software Engineer, Full-Stack Development and Scalable Systems Opportunities  
 - 🏆 Competitive Programmer: Codeforces Expert (1601), CodeChef 4★ (1990), solved 3000+ problems  
 - 📫 Reach me at: **guptavishu1000@gmail.com**  
 - 🌐 Portfolio: [vishesh-gupta.onrender.com](https://vishesh-gupta.onrender.com/)  
